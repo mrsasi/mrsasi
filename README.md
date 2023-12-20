@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source.
 - 📫 How to reach me [LinkedIn!](https://www.linkedin.com/in/sasikumar-chandrasekar)
 
-![GitHub Ranking](https://github-readme-stats.vercel.app/api?username=mrsasi&show_icons=true)
+![GitHub Ranking](https://github-readme-stats.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true)

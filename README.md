@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 --->
 
-- 🔭 I’m currently working on UST Global.
+- 🔭 I’m currently working on UST.
 - 🌱 I’m currently learning web service architecture.
 - 👯 I’m looking to collaborate on open source.
 - 📫 How to reach me [LinkedIn!](https://www.linkedin.com/in/sasikumar-chandrasekar)
